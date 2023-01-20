@@ -1,3 +1,11 @@
+/*global*/
+* {
+  top: 0px;
+  left: 0px;
+}
+
+/*header*/
+
 #header {
   display: flex;
   flex-direction: row;
@@ -20,6 +28,28 @@
   margin-left: 10%;
 }
 
+/*main*/
+
 #main {
   padding-top: 100px;
+}
+
+/*footer*/
+
+#footer {
+  background-color: black;
+  width: 100vw;
+  margin-top: 100px;
+}
+#footer div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#footer h1 {
+  color: white;
+}
+#footer p {
+  color: white;
 }
