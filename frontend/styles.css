@@ -1,0 +1,25 @@
+#header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: black;
+  position: fixed;
+  width: 100vw;
+}
+#header h1 {
+  color: white;
+  margin-left: 1%;
+}
+#header ul {
+  display: flex;
+  list-style: none;
+  margin-left: 30%;
+}
+#header ul li {
+  color: white;
+  margin-left: 10%;
+}
+
+#main {
+  padding-top: 100px;
+}
