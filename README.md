@@ -20,14 +20,10 @@ só seja possível votar ou favoritar produtos caso o usuário esteja logado.
 - Página com produtos favoritos (Não iniciado)
 - Recurso para login (Não iniciado)
 
-## Funcionalidades e Demonstração da Aplicação
-
 # Tecnologias utilizadas
 
 - Banco de Dados SQL
 - HTML, CSS, JS
-
-## Acesso ao Projeto
 
 ## Pessoas Contribuidoras
 
@@ -36,3 +32,5 @@ só seja possível votar ou favoritar produtos caso o usuário esteja logado.
 - [David](https://github.com/Ishol-Ariss)
 
 ## Licença
+
+Nenhuma
