@@ -1,4 +1,3 @@
-
 # Titulo e Descrição
 
 Prova do SAEP realizado na sala de aula do senai.
@@ -30,14 +29,10 @@ só seja possível votar ou favoritar produtos caso o usuário esteja logado.
 
 ## Acesso ao Projeto
 
-## Tecnologias utilizadas
-
 ## Pessoas Contribuidoras
-
-
 
 ## Pessoas Desenvolvedoras do Projeto
 
- - [David](https://github.com/Ishol-Ariss)
+- [David](https://github.com/Ishol-Ariss)
 
 ## Licença
