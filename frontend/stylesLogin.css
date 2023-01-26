@@ -1,0 +1,40 @@
+main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 100px;
+    padding-left: 60px;
+}
+
+main #login {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 80vh;
+    width: 40vw;
+    border-radius: 10px;
+    background-color: black;
+}
+
+main #login h1 {
+    color: white;
+}
+
+main #login button {
+    margin-bottom: 80px;
+}
+
+main #login a {
+    color: white;
+}
+
+main #login div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+}
+main #login div h2{
+    color: white;
+}
