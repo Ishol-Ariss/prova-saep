@@ -14,15 +14,15 @@ só seja possível votar ou favoritar produtos caso o usuário esteja logado.
 
 ## Status do Projeto
 
-- Diagrama Entidade-Relacionamento (DER) (Não iniciado)
+- Diagrama Entidade-Relacionamento (DER) (Concluído?)
 - Banco de dados e importação de dados (Não iniciado)
-- Página com catálogo de produtos (Em andamento)
+- Página com catálogo de produtos (Em andamento)(Só falta a barrinha nas imagens)
 - Página com produtos favoritos (Não iniciado)
-- Recurso para login (Não iniciado)
+- Recurso para login (Em andamento)
 
 # Tecnologias utilizadas
 
-- Banco de Dados SQL
+- Banco de Dados MySQL
 - HTML, CSS, JS
 
 ## Pessoas Contribuidoras
