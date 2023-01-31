@@ -25,7 +25,11 @@
     align-items: center;
   }
   .modal-content div a{
-    margin-top: 30px;
+    margin-top: 20px;
+  }
+
+  .modal-content div button {
+    margin-top: 20px;
   }
   /* The Close Button */
   .close {
