@@ -1,4 +1,4 @@
-#BNA {
+#main #BNA {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -6,10 +6,8 @@
     height: 1%;
     background-color: rgba(85, 85, 85, 0.5);
     z-index: 1;
-
     top: -50px;
     margin-left: 30px;
-
 }
 
 #BNA p {
@@ -24,4 +22,8 @@
 #BNA div {
     margin-top: 90px;
     margin-left: 50px;
+}
+
+#main #segundaLinha #BNA {
+    margin-left: 0px;
 }
