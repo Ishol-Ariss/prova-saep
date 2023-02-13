@@ -1,0 +1,8 @@
+#Config file
+/backend/config
+
+#package-lock
+/backend/package-lock.json
+
+#nodemodules
+/backend/node_modules
